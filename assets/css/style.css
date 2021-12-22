@@ -134,4 +134,50 @@ h2 {
     display: flex;
     flex-direction: row;
     justify-content: start;
-}    
+} 
+
+#row2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    align-content: space-around;
+}
+
+#row3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    align-content: space-around;
+}
+
+#bigbox, .regbox {
+    margin: 1%;
+    position: relative;
+}
+
+/* border style around all images wrapped in <a> tag */
+a img {
+    border: 5px solid var(--indep);
+}
+
+/* use position absolute to see and position titles over images */
+.projectname {
+    color: var(--champ);
+    font-size: 85%;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    padding: 1.5%;
+    background-color: var(--indep);
+}
+
+.regbox .projectname {
+    padding: 3.2%;
+}
+
+.projectname p {
+    font-size: 65%;
+    padding-top: 5%;
+}
