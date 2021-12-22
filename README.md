@@ -1,14 +1,8 @@
-# Portfolio
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+# 2-AdvancedCSS-Portfolio
+2:  Advanced CSS Portfolio
+
+## Description: 
+This is the second homework assignment for UCSD Full Stack Coding Bootcamp. The objective of this assignment is to create a portfolio using HTML and CSS. This portfolio has placeholders for future projects that can be added as they are completed. Skills used for this assignment include flexbox, media queries, and CSS variables.  This portfolio page has sections including about me, work, and contact information. The navigation bar has links that will go to these sections when clicked. The work section has placeholder images with titles, and links to a coming soon page which can be changed when completed projects are added. The page is has a responsive layout that can be viewed on various devices and screensizes. 
+
+
+
