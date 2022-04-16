@@ -2,10 +2,7 @@
 
 ## Description
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+My personal portfolio showcasing my most recent projects, featuring the homepage screenshot, link to the website and the github repository for each one.
 
 ## Installation
 
